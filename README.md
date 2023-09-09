@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 
-- 🔭 I’m currently a **Final Year B.tech Student**
+- 🔭 I’m currently a **B.tech CSE Pass Out Student**
 
-- 🌱 I’m currently learning **machine learning and deep learning**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
