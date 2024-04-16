@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently a **B.tech CSE Pass Out Student**
 
-- 🌱 I’m currently learning **Data Engineering**
+- 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
